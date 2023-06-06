@@ -284,9 +284,7 @@ class AccordionSection extends StatelessWidget with CommonParams {
                               horizontal: contentHorizontalPadding!,
                               vertical: contentVerticalPadding!,
                             ),
-                            child: Center(
-                              child: content,
-                            ),
+                            child: content,
                           ),
                         ),
                       ),
